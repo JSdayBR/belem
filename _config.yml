@@ -9,19 +9,19 @@ permalink: pretty
 exclude: ['/automation/', 'README.md', 'LICENSE.txt', 'CNAME']
 
 # Site Settings
-title: "JSDay Rio de Janeiro 2018"
+title: "JSDay Belém - Pará - 2019"
 email: "jsdaybr@gmail.com"
 description: "O JSday é um evento imersivo focado em JavaScript e tudo o que essa linguagem tem a oferecer"
 baseurl: ""
 url: "http://jsday.com.br"
-seasonUrl: "http://rio.jsday.com.br"
+seasonUrl: "http://belem.jsday.com.br"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: "UA-62574701-1"
 googleAnalyticsSiteUrl: "jsday.com.br"
 siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 
 # Organizer Info
-organizerName: "JSday Rio de Janeiro"
+organizerName: "JSday Belém - Pará - 2019"
 # organizerAlternateName: "Google Developer Group Lviv"
 organizerDescription: "O JSday é um evento imersivo focado em JavaScript e tudo o que essa linguagem tem a oferecer"
 organizerEmail: "jsdaybr@gmail.com"
@@ -36,33 +36,33 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=Patrocínio JSday Rio de Janeiro 2018"
+c4sponsorsUrl: "mailto:jsdaybr@gmail.com?subject=C4P JSday Belém - Pará - 2019"
 
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Home"}
  - {permalink: "/speakers/", text: "Speakers"}
  - {permalink: "/schedule/", text: "Schedule"}
-#- {link: "https://goo.gl/forms/QJa2cN9eRzo5wBh03", text: "Call4Papers"}
+ - {link: "https://docs.google.com/forms/d/e/1FAIpQLSd-0j-ld6eFvweXOX4RklacBdRBOCzvHFnFVSBcGQyDMqzFfA/viewform?usp=sf_link", text: "Call4Papers"}
 # - {permalink: "/live/", text: "Live"}
 
 
 #bottomNavigationLinks:
 # - {link: "", text: ""}
 rightNavigationButtons:
- - {link: "https://www.sympla.com.br/jsday-rio-de-janeiro-2018__261190", text: "Participe!"}
+ - {link: "https://www.sympla.com.br/jsday-belem-2019__261190", text: "Participe!"}
 
 # Hero Block
 heroImage: "bg-hd-2017.jpg"
 heroTitle: "<typeout>"
-eventDate: "09 de Junho, 2018"
-typeoutTextValues: '"JSday Rio de Janeiro", "JS Lovers", "Cidade Maravilhosa"'
-typeoutFallback: "JSday Rio de Janeiro"
+eventDate: "XX de Julho, 2019"
+typeoutTextValues: '"JSday Belém - Pará - 2019", "JS Lovers"'
+typeoutFallback: "JSday Belém - Pará - 2019"
 heroButtons:
-- {link: "https://www.sympla.com.br/jsday-rio-de-janeiro-2018__261190", text: "Participe!"}
+- {link: "https://www.sympla.com.br/jsday-belem-2019__261190", text: "Participe!"}
 
 # About Block
-aboutTitle: "Sobre o JSday Rio de Janeiro"
+aboutTitle: "Sobre o JSday Belém - Pará - 2019"
 aboutBlock:
  - {title: "JavaScript", image: "javascript.jpg", text: "Como uma das linguagens mais populares e mais utilizadas atualmente, você pode encontrá-la no seu navegador, no seu smartphone e até em sua geladeira, seguindo o conceito de Internet das Coisas." }
  - {title: "Mercado", image: "office.jpg", text: "O mercado tem uma demanda gigantesca por profissionais que conhecem as nuances do JavaScript e estão por dentro de suas novidades." }
